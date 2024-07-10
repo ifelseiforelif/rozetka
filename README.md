@@ -1,5 +1,9 @@
 # Rozetka
 
+Для старта надо сначала зайти в папку server
+и выполнить команду npm install
+Все категории хранятся в server/rozetka.json
+Запуск сервера: npx json.server rozetka.json
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
 
 ## Development server
