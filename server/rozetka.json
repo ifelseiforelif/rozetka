@@ -1,0 +1,40 @@
+{
+  "categories": [
+    { "id": "1", "title": "Ноутбуки", "img": "noutbuki.png" },
+    { "id": "2", "title": "Компьютеры", "img": "kompyutery.png" },
+    { "id": "3", "title": "Мониторы", "img": "monitory.png" },
+    { "id": "4", "title": "Gaming", "img": "tovary-dlya-gejmerov.png" },
+    { "id": "5", "title": "Планшеты", "img": "planshety.png" },
+    {
+      "id": "6",
+      "title": "Кабели и переходники",
+      "img": "kabeli-i-perekhodniki.png"
+    },
+    {
+      "id": "7",
+      "title": "Компьютерные комплектующие",
+      "img": "kompyuternye-komplektuyushchie.png"
+    },
+    {
+      "id": "8",
+      "title": "Сетевое оборудование",
+      "img": "setevoe-oborudovanie.png"
+    },
+    {
+      "id": "9",
+      "title": "Наушники и аксессуары",
+      "img": "naushniki-i-aksessuary.png"
+    },
+    {
+      "id": "10",
+      "title": "Клавиатуры и мыши",
+      "img": "klaviatury-i-myshi.png"
+    },
+    {
+      "id": "11",
+      "title": "Аксессуары для электроники",
+      "img": "aksessuari-dlia-elektronyky.png"
+    },
+    { "id": "12", "title": "Оргтехника", "img": "ofisnaya-tekhnika.png" }
+  ]
+}
